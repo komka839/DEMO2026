@@ -1,0 +1,22 @@
+drop database "BD1";
+drop user user1;
+drop database "BD2";
+drop user user2;
+drop database "BD3";
+drop user user3;
+drop database "BD4";
+drop user user4;
+drop database "BD5";
+drop user user5;
+drop database "BD6";
+drop user user6;
+drop database "BD7";
+drop user user7;
+drop database "BD8";
+drop user user8;
+drop database "BD9";
+drop user user9;
+drop database "BD10";
+drop user user10; 
+
+drop database "BD";
