@@ -20,3 +20,5 @@
 <img width="1302" height="995" alt="PSQL" src="https://github.com/user-attachments/assets/dcaced04-e704-4789-a86b-667fc34c2d3f" />
 
 И жмём на всех окнах Ок
+
+Примерные файлы модуля 1-3 вы можете найти [здесь](https://github.com/komka839/DEMO2026/tree/main/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%201-3)
